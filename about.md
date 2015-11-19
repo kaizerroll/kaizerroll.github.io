@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm thinking I'll use this blog initially to document me reading *Seven Languages in Seven Weeks* and the things I learn
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bac1087@gmail.com](mailto:bac1087@gmail.com)
